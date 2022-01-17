@@ -1,4 +1,4 @@
 # reservoir-simulation
  IMPES implementation in python
  
- Here prst libary has been used with some modifications
+ Here a part of PRST library has been used with some modifications
